@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subbham
-- 👀 I’m interested in data roles mainky DataScientist
+- 👀 I’m interested in data roles
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail me at gupta1996subham@gmail.com
