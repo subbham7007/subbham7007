@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in data roles, GEN AI, ML/AI roles
-- 🌱 I’m currently working as an GEN AI specialist Intern @ Infineon Semiconductors pvt ltd
+- 🌱 I’m currently working as an GEN AI specialist @ Infineon Semiconductors pvt ltd
 - My previous projects
 - 1. Like Sentiment and Intent analysis Plugin on Microsoft Dynamics for better query resolution,
   2. Re-ranker for better RAG Responses,
