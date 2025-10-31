@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 Currently working on Data management service with microserice architecture + with Python Client support.
+- 👀 Currently working on Data management system based on microservice architecture + with Python Client support.
 - Machine Learning, Deep laerning and Leveraging Gen AI for better Customer Engagement and Experience 
 
 - 🌱 I’m currently learning MCP, Nuxt.js and GO.
